@@ -2,6 +2,6 @@
 
 Associates : 
 
-- Ritvik Radha
-- Ethan Tuckmansing
+- Ritvik Rishabh Radha
+- Ethan Andrew Joshua Tuckmansing
 - Ilyas Ally Musaphur
